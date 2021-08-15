@@ -16,8 +16,4 @@ public class FizzBuzz {
 
         return number + "";
     }
-
-    public static void main(String[] args) {
-        System.out.println(FizzBuzz.fizzBuzz(3));
-    }
 }
